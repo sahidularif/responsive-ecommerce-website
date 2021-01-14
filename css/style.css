@@ -1,3 +1,23 @@
+.logo{
+    width: 291px;
+    height: auto;
+    margin-left: 20px;
+}
+.logo-bag img{
+    width: 90%;
+}
+#backpack{
+    font-size: 70px;
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+}
+#moon{
+    font-size: 70px;
+    color:#76C27E;
+    font-family: 'Bebas Neue', cursive;
+    font-weight: 600;
+}
 .panda-card{
     border: 0;
     background-color:white;
@@ -5,16 +25,42 @@
 .panda-card-footer{
     border: 0;
     background-color:white;
+    
 }
-
-.categories img{
-    width: 100px;
+.single-item-bg{
+    background-color: #F1F1F1;
 }
-.panda-slider .carousel-item {
-   background-color:#FEEAE9;
-   border-radius: 1em;
+.card-img{
+    background-color: #F1F1F1;
+    width: 90%;
+    height: 350px;
+    align-items: center;
+    border-radius: 30px;
 }
-#bg-color{
-    background-color:#FEEAE9;
-    border-radius: 1em;
+.card-img img{
+    height: 90%;
+}
+#shoes{
+    color:#363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+.item-title {
+    font-weight: 700;
+    color:#363958;
+}
+.btn-color{
+    background-color: #2A1E59;
+    color:white;
+}
+.section4-image img{
+    width: 100%;
+}
+.section4{
+    margin-top: 100px;
+}
+.icon img{
+    width: 80px;
+    height: 80px;
+    margin-right: 15px;
 }

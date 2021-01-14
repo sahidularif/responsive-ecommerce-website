@@ -33,7 +33,7 @@
 .card-img{
     background-color: #F1F1F1;
     width: 90%;
-    height: 350px;
+    height: 300px;
     align-items: center;
     border-radius: 30px;
 }
@@ -43,7 +43,7 @@
 #shoes{
     color:#363958;
     font-family: 'Bebas Neue', cursive;
-    font-size: 30px;
+    font-size: 35px;
 }
 .item-title {
     font-weight: 700;
@@ -53,14 +53,35 @@
     background-color: #2A1E59;
     color:white;
 }
-.section4-image img{
+.section1-image img{
     width: 100%;
 }
-.section4{
+.section1{
     margin-top: 100px;
 }
 .icon img{
     width: 80px;
     height: 80px;
     margin-right: 15px;
+}
+.nav-link a{
+    font-weight: 700;
+}
+header{
+    margin-bottom: 150px;
+}
+.section1_cont-title{
+ color: #2A1E59;   
+ font-weight: 700;
+ font-size: 22px;
+ 
+}
+.price{
+    color:#76C27E;
+}
+button:hover{
+    color:white;
+}
+.row button:hover{
+    color:white;
 }

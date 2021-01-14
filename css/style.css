@@ -80,8 +80,30 @@ header{
     color:#76C27E;
 }
 button:hover{
-    color:white;
+    color:rgb(240, 231, 231);
 }
 .row button:hover{
     color:white;
+}
+.clients{
+    margin-top: 200px;
+}
+
+.clients h4{
+font-size: 18px;
+}
+.clients p{
+    font-size: 14px;
+}
+.clients img{
+    width: 60px;
+    height:60px;
+}
+.bonus-work{
+   background-color:snow;
+   
+}
+footer a{
+    text-decoration: none;
+
 }
